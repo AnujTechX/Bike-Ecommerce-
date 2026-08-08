@@ -1,0 +1,968 @@
+
+{"bikes":[
+   {
+    "id": 1,
+    "title": "Ola S1 Pro Gen 2",
+    "category": "electric scooters",
+    "brand": "Ola",
+    "price_inr": 127000,
+    "rating": 4.7,
+    "color": "Midnight Blue",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/ola-electric/s1-pro/source/s1-pro676118fc0011a.jpg",
+      "https://cdn.bikedekho.com/processedimages/ola-electric/s1-pro/source/s1-pro6761190c29068.jpg",
+      "https://cdn.bikedekho.com/processedimages/ola-electric/s1-pro/source/s1-pro6761190a542a5.jpg",
+      "https://cdn.bikedekho.com/processedimages/ola-electric/s1-pro/source/s1-pro641ab919bf786.jpg"
+    ],
+    "specifications": {
+      "motor": "11 kW Mid Drive Motor",
+      "power": "14.75 HP",
+      "battery": "4 kWh",
+      "range": "195 km",
+      "top_speed": "120 km/h",
+      "brakes": "Disc Brakes",
+      "suspension": "Telescopic Fork + Mono Shock",
+      "weight": "116 kg"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Ather 450X",
+    "category": "electric scooters",
+    "brand": "Ather",
+    "price_inr": 157000,
+    "rating": 4.8,
+    "color": "Cosmic Black",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/ather-energy/2025-450x/source/2025-450x69a92155caf0d.jpg",
+      "https://cdn.bikedekho.com/processedimages/ather-energy/2025-450x/source/2025-450x69a91e9b7987e.jpg",
+      "https://cdn.bikedekho.com/processedimages/ather-energy/2025-450x/source/2025-450x69a91e9bbe48f.jpg"
+    ],
+    "specifications": {
+      "motor": "6.4 kW PMS Motor",
+      "power": "8.6 HP",
+      "battery": "3.7 kWh",
+      "range": "150 km",
+      "top_speed": "90 km/h",
+      "brakes": "Disc Brakes",
+      "suspension": "Telescopic Fork",
+      "weight": "111 kg"
+    }
+  },
+  {
+    "id": 3,
+    "title": "TVS iQube ST",
+    "category": "electric scooters",
+    "brand": "TVS",
+    "price_inr": 137000,
+    "rating": 4.6,
+    "color": "Copper Bronze",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/tvs/iqube-st/source/iqube-st68afe25db6df4.jpg",
+      "https://cdn.bikedekho.com/processedimages/tvs/iqube-st/source/iqube-st68f0c19644cc6.jpg",
+      "https://cdn.bikedekho.com/processedimages/tvs/iqube-st/source/iqube-st68f0c1969437b.jpg"
+    ],
+    "specifications": {
+      "motor": "4.4 kW Hub Motor",
+      "power": "5.9 HP",
+      "battery": "5.1 kWh",
+      "range": "150 km",
+      "top_speed": "82 km/h",
+      "brakes": "Disc + Drum",
+      "suspension": "Telescopic Fork",
+      "weight": "128 kg"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Bajaj Chetak Premium",
+    "category": "electric scooters",
+    "brand": "Bajaj",
+    "price_inr": 145000,
+    "rating": 4.7,
+    "color": "Brooklyn Black",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/bajaj/chetak-c2501/source/chetak-c25016971bd5606598.jpg",
+      "https://cdn.bikedekho.com/processedimages/bajaj/chetak-c2501/source/chetak-c25016971bcaa9414f.jpg",
+      "https://cdn.bikedekho.com/processedimages/bajaj/chetak-c2501/source/chetak-c25016971bcab457cc.jpg"
+    ],
+    "specifications": {
+      "motor": "4.2 kW Motor",
+      "power": "5.6 HP",
+      "battery": "3.2 kWh",
+      "range": "127 km",
+      "top_speed": "73 km/h",
+      "brakes": "Disc + Drum",
+      "suspension": "Single Side Leading Link",
+      "weight": "134 kg"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Simple One",
+    "category": "electric scooters",
+    "brand": "Simple Energy",
+    "price_inr": 166000,
+    "rating": 4.8,
+    "color": "Brazen Black",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/simple-energy/simple-one/source/simple-one6964d3f677845.jpg",
+      "https://cdn.bikedekho.com/processedimages/simple-energy/simple-one/source/simple-one6964d41d531ca.jpg",
+      "https://cdn.bikedekho.com/processedimages/simple-energy/simple-one/source/simple-one6964d41c5901e.jpg"
+    ],
+    "specifications": {
+      "motor": "8.5 kW PMS Motor",
+      "power": "11.4 HP",
+      "battery": "5 kWh",
+      "range": "212 km",
+      "top_speed": "105 km/h",
+      "brakes": "Disc Brakes",
+      "suspension": "Telescopic Fork",
+      "weight": "134 kg"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Hero Vida V1 Pro",
+    "category": "electric scooters",
+    "brand": "Hero",
+    "price_inr": 159000,
+    "rating": 4.5,
+    "color": "Matte White",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/vida/vx2/source/vx268d1139c16533.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/vida/vx2/source/vx2690ee99098d72.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/vida/vx2/source/vx2690ee9ab6162d.jpg?imwidth=600&impolicy=resize"
+    ],
+    "specifications": {
+      "motor": "6 kW Motor",
+      "power": "8 HP",
+      "battery": "3.9 kWh",
+      "range": "165 km",
+      "top_speed": "80 km/h",
+      "brakes": "Disc Brakes",
+      "suspension": "Telescopic Fork",
+      "weight": "125 kg"
+    }
+  },
+  {
+    "id": 7,
+    "title": "River Indie",
+    "category": "electric scooters",
+    "brand": "River",
+    "price_inr": 125000,
+    "rating": 4.6,
+    "color": "Monsoon Blue",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/river/river-electric-scooter/source/river-electric-scooter69afc11f1850b.jpg?imwidth=600&impolicy=resize",
+   "https://cdn.bikedekho.com/processedimages/river/river-electric-scooter/source/river-electric-scooter69afc08e97ff3.jpg",
+      "https://cdn.bikedekho.com/processedimages/river/river-electric-scooter/source/river-electric-scooter69afc09040b81.jpg"
+    ],
+    "specifications": {
+      "motor": "6.7 kW Motor",
+      "power": "9 HP",
+      "battery": "4 kWh",
+      "range": "161 km",
+      "top_speed": "90 km/h",
+      "brakes": "Disc Brakes",
+      "suspension": "Telescopic Fork",
+      "weight": "143 kg"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Ampere Nexus",
+    "category": "electric scooters",
+    "brand": "Ampere",
+    "price_inr": 120000,
+    "rating": 4.4,
+    "color": "Steel Grey",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/ampere/nxg/source/nxg6a350b23d0d9f.jpg",
+      "https://cdn.bikedekho.com/processedimages/ampere/nxg/source/nxg6a350b0792661.jpg",
+      "https://cdn.bikedekho.com/processedimages/ampere/nxg/source/nxg69b1195423a58.jpg"
+    ],
+    "specifications": {
+      "motor": "4 kW Motor",
+      "power": "5.3 HP",
+      "battery": "3 kWh",
+      "range": "136 km",
+      "top_speed": "93 km/h",
+      "brakes": "Disc + Drum",
+      "suspension": "Telescopic Fork",
+      "weight": "115 kg"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Okinawa Okhi-90",
+    "category": "electric scooters",
+    "brand": "Okinawa",
+    "price_inr": 146000,
+    "rating": 4.3,
+    "color": "Wine Red",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/okinawa/oki90/source/oki90694bba62ee986.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/okinawa/oki90/source/oki9064b50ee03bcf6.jpg",
+      "https://cdn.bikedekho.com/processedimages/okinawa/oki90/source/oki9064b50ede44440.jpg"
+    ],
+    "specifications": {
+      "motor": "3.8 kW Motor",
+      "power": "5.1 HP",
+      "battery": "3.6 kWh",
+      "range": "160 km",
+      "top_speed": "85 km/h",
+      "brakes": "Disc Brakes",
+      "suspension": "Telescopic Fork",
+      "weight": "132 kg"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Ultraviolette Tesseract",
+    "category": "electric scooters",
+    "brand": "Ultraviolette",
+    "price_inr": 145000,
+    "rating": 4.9,
+    "color": "Stealth Black",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/ultraviolette/tesseract/source/tesseract695b9fe959c1e.jpg",
+      "https://cdn.bikedekho.com/processedimages/ultraviolette/tesseract/source/tesseract67c81c102e0b2.jpg",
+      "https://cdn.bikedekho.com/processedimages/ultraviolette/tesseract/source/tesseract67c838e0ae656.jpg"
+    ],
+    "specifications": {
+      "motor": "20 HP Electric Motor",
+      "power": "20 HP",
+      "battery": "Large Capacity Battery",
+      "range": "261 km",
+      "top_speed": "125 km/h",
+      "brakes": "Dual Disc Brakes",
+      "suspension": "Telescopic Fork + Mono Shock",
+      "weight": "120 kg"
+    }
+  },
+  
+  {
+    "id": 11,
+    "title": "Royal Enfield Classic 350",
+    "category": "cruiser bikes",
+    "brand": "Royal Enfield",
+    "price_inr": 193000,
+    "rating": 4.8,
+    "color": "Stealth Black",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/royal-enfield/classic350/source/classic35068b6db31f3948.jpg",
+      "https://cdn.bikedekho.com/processedimages/royal-enfield/classic350/source/classic350690eda5ea0565.jpg",
+      "https://cdn.bikedekho.com/processedimages/royal-enfield/classic350/source/classic350690eda5faa5d8.jpg"
+    ],
+    "specifications": {
+      "engine": "349cc",
+      "power": "20.2 HP",
+      "torque": "27 Nm",
+      "top_speed": "115 km/h",
+      "mileage": "35 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork",
+      "weight": "195 kg"
+    }
+  },
+  {
+    "id": 12,
+    "title": "Royal Enfield Meteor 350",
+    "category": "cruiser bikes",
+    "brand": "Royal Enfield",
+    "price_inr": 205000,
+    "rating": 4.8,
+    "color": "Fireball Red",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/royal-enfield/meteor-350/source/meteor-35068e792df91c55.jpg",
+      "https://cdn.bikedekho.com/processedimages/royal-enfield/meteor-350/source/meteor-35068e793235c37c.jpg",
+      "https://cdn.bikedekho.com/processedimages/royal-enfield/meteor-350/source/meteor-35068e793240521c.jpg"
+    ],
+    "specifications": {
+      "engine": "349cc",
+      "power": "20.2 HP",
+      "torque": "27 Nm",
+      "top_speed": "120 km/h",
+      "mileage": "35 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork + Twin Shock",
+      "weight": "191 kg"
+    }
+  },
+  {
+    "id": 13,
+    "title": "Royal Enfield Super Meteor 650",
+    "category": "cruiser bikes",
+    "brand": "Royal Enfield",
+    "price_inr": 365000,
+    "rating": 4.9,
+    "color": "Astral Black",
+    "thumbnail": [
+      "https://imgd.aeplcdn.com/642x361/n/cw/ec/108885/super-meteor-750-right-side-view-6.png?isig=0",
+      "https://imgd.aeplcdn.com/642x361/n/cw/ec/108885/super-meteor-650-left-front-three-quarter-8.jpeg?isig=0",
+      "https://imgd.aeplcdn.com/642x361/n/cw/ec/108885/super-meteor-650-front-view-9.jpeg?isig=0"
+    ],
+    "specifications": {
+      "engine": "648cc Twin Cylinder",
+      "power": "47 HP",
+      "torque": "52.3 Nm",
+      "top_speed": "170 km/h",
+      "mileage": "25 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork",
+      "weight": "241 kg"
+    }
+  },
+  {
+    "id": 14,
+    "title": "Jawa 42 Bobber",
+    "category": "cruiser bikes",
+    "brand": "Jawa",
+    "price_inr": 214000,
+    "rating": 4.6,
+    "color": "Mystic Copper",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/jawa-motorcycles/42-bobber/source/42-bobber6337d396e4b03.jpg",
+      "https://cdn.bikedekho.com/processedimages/jawa-motorcycles/42-bobber/source/42-bobber6337d39633bc7.jpg",
+      "https://cdn.bikedekho.com/processedimages/jawa-motorcycles/42-bobber/source/42-bobber68d26def56b31.jpg"
+    ],
+    "specifications": {
+      "engine": "334cc",
+      "power": "29.5 HP",
+      "torque": "32.7 Nm",
+      "top_speed": "130 km/h",
+      "mileage": "30 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork",
+      "weight": "185 kg"
+    }
+  },
+  {
+    "id": 15,
+    "title": "Honda Hness CB350",
+    "category": "cruiser bikes",
+    "brand": "Honda",
+    "price_inr": 210000,
+    "rating": 4.7,
+    "color": "Pearl Nightstar Black",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/honda/honda-cruiser/source/honda-cruiser6a1043b02472b.jpg",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/200501/hness-cb350-left-rear-three-quarter.jpeg?isig=0&q=80",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/1/versions/--dlx-obd-2b1743781036971.jpg?q=80"
+    ],
+    "specifications": {
+      "engine": "348cc",
+      "power": "20.8 HP",
+      "torque": "30 Nm",
+      "top_speed": "125 km/h",
+      "mileage": "35 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork",
+      "weight": "181 kg"
+    }
+  },
+  {
+    "id": 16,
+    "title": "Benelli Imperiale 400",
+    "category": "cruiser bikes",
+    "brand": "Benelli",
+    "price_inr": 235000,
+    "rating": 4.4,
+    "color": "Silver",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/benelli/imperiale-400/source/imperiale-4005f0708f69c42b.jpg",
+      "https://cdn.bikedekho.com/processedimages/benelli/imperiale-400/source/imperiale-4005f070bc648b3c.jpg",
+      "https://cdn.bikedekho.com/processedimages/benelli/imperiale-400/source/imperiale-400-std_black_1571734942.jpg"
+    ],
+    "specifications": {
+      "engine": "374cc",
+      "power": "20.7 HP",
+      "torque": "29 Nm",
+      "top_speed": "120 km/h",
+      "mileage": "32 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork",
+      "weight": "205 kg"
+    }
+  },
+  {
+    "id": 17,
+    "title": "Keeway V302C",
+    "category": "cruiser bikes",
+    "brand": "Keeway",
+    "price_inr": 390000,
+    "rating": 4.5,
+    "color": "Gloss Black",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/keeway/benda-v302c/source/benda-v302c69f085842c89f.jpg",
+      "https://cdn.bikedekho.com/processedimages/keeway/benda-v302c/source/benda-v302c69f085846a9c6.jpg",
+      "https://cdn.bikedekho.com/processedimages/keeway/benda-v302c/source/benda-v302c69f08671df228.jpg"
+    ],
+    "specifications": {
+      "engine": "298cc V-Twin",
+      "power": "29.5 HP",
+      "torque": "26.5 Nm",
+      "top_speed": "140 km/h",
+      "mileage": "30 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork",
+      "weight": "167 kg"
+    }
+  },
+  {
+    "id": 18,
+    "title": "Harley-Davidson X440",
+    "category": "cruiser bikes",
+    "brand": "Harley-Davidson",
+    "price_inr": 239000,
+    "rating": 4.8,
+    "color": "Mustard Yellow",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/harley-davidson/x440/source/x440695f814f1294f.jpg?imwidth=600&impolicy=resize",
+      "https://imgd.aeplcdn.com/476x268/n/cw/ec/145655/x440-right-front-three-quarter-10.jpeg?isig=0&q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/kfpmbgb_1838300.jpg?q=80"
+    ],
+    "specifications": {
+      "engine": "440cc",
+      "power": "27 HP",
+      "torque": "38 Nm",
+      "top_speed": "135 km/h",
+      "mileage": "35 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork",
+      "weight": "190 kg"
+    }
+  },
+  {
+    "id": 19,
+    "title": "Bajaj Avenger Cruise 220",
+    "category": "cruiser bikes",
+    "brand": "Bajaj",
+    "price_inr": 120000,
+    "rating": 4.4,
+    "color": "Moon White",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/bajaj/bajaj-avenger-cruise/source/bajaj-avenger-cruise65e9949a44947.jpg",
+      "https://imgd.aeplcdn.com/664x374/n/cw/ec/94173/avenger-cruise-220-left-rear-three-quarter.png?isig=0&q=80",
+      "https://cdn.bikedekho.com/processedimages/bajaj/bajaj-avenger-cruise/source/bajaj-avenger-cruise65e9949c9f7c0.jpg?imwidth=600&impolicy=resize"
+    ],
+    "specifications": {
+      "engine": "220cc",
+      "power": "19 HP",
+      "torque": "17.5 Nm",
+      "top_speed": "120 km/h",
+      "mileage": "40 km/l",
+      "brakes": "Single Channel ABS",
+      "suspension": "Telescopic Fork",
+      "weight": "163 kg"
+    }
+  },
+  {
+    "id": 20,
+    "title": "Kawasaki Eliminator",
+    "category": "cruiser bikes",
+    "brand": "Kawasaki",
+    "price_inr": 530000,
+    "rating": 4.8,
+    "color": "Metallic Flat Spark Black",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/kawasaki/eliminator-400/source/eliminator-4006912c48e16e5e.jpg",
+      "https://cdn.bikedekho.com/processedimages/kawasaki/eliminator-400/source/eliminator-40065951c1091f97.jpg",
+      "https://cdn.bikedekho.com/processedimages/kawasaki/eliminator-400/source/eliminator-40065951c1141c4e.jpg"
+    ],
+    "specifications": {
+      "engine": "451cc Twin Cylinder",
+      "power": "45 HP",
+      "torque": "42.6 Nm",
+      "top_speed": "170 km/h",
+      "mileage": "28 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork + Twin Shock",
+      "weight": "176 kg"
+    }
+  },
+  {
+    "id": 21,
+    "title": "Yamaha R15 V4",
+    "category": "sports bikes",
+    "brand": "Yamaha",
+    "price_inr": 220000,
+    "rating": 4.8,
+    "color": "Racing Blue",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/yamaha/r15-v4/source/r15-v468bbb605ad77f.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/yamaha/r15-v4/source/r15-v468bbb5ab6e776.jpg",
+      "https://cdn.bikedekho.com/processedimages/yamaha/r15-v4/source/r15-v468bbb5abad791.jpg"
+    ],
+    "specifications": {
+      "engine": "155cc Liquid Cooled",
+      "power": "18.4 HP",
+      "torque": "14.2 Nm",
+      "top_speed": "140 km/h",
+      "mileage": "45 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork + Monoshock",
+      "weight": "141 kg"
+    }
+  },
+  {
+    "id": 22,
+    "title": "KTM RC 200",
+    "category": "sports bikes",
+    "brand": "KTM",
+    "price_inr": 220000,
+    "rating": 4.7,
+    "color": "Orange",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/ktm/2021-rc-200/source/2021-rc-20068ce5643c52c7.jpg",
+      "https://cdn.bikedekho.com/processedimages/ktm/2021-rc-200/source/2021-rc-2006614c35a24644.jpg",
+      "https://cdn.bikedekho.com/processedimages/ktm/2021-rc-200/source/2021-rc-2006614c3905ea35.jpg"
+    ],
+    "specifications": {
+      "engine": "199.5cc",
+      "power": "25 HP",
+      "torque": "19.2 Nm",
+      "top_speed": "140 km/h",
+      "mileage": "35 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "WP USD Fork",
+      "weight": "160 kg"
+    }
+  },
+  {
+    "id": 23,
+    "title": "KTM RC 390",
+    "category": "sports bikes",
+    "brand": "KTM",
+    "price_inr": 317000,
+    "rating": 4.9,
+    "color": "Factory Racing Blue",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/ktm/2021-rc-390/source/2021-rc-39068ce56b5dffad.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/ktm/2021-rc-390/source/2021-rc-3906613dc6557565.jpg",
+      "https://cdn.bikedekho.com/processedimages/ktm/2021-rc-390/source/2021-rc-3906613dc4b76bd1.jpg"
+    ],
+    "specifications": {
+      "engine": "373cc",
+      "power": "43.5 HP",
+      "torque": "37 Nm",
+      "top_speed": "170 km/h",
+      "mileage": "28 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "WP Apex USD Fork",
+      "weight": "172 kg"
+    }
+  },
+  {
+    "id": 24,
+    "title": "TVS Apache RR310",
+    "category": "sports bikes",
+    "brand": "TVS",
+    "price_inr": 280000,
+    "rating": 4.8,
+    "color": "Red",
+    "thumbnail": [
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/1/versions/--red-without-quickshifter-obd-2b1744894903832.jpg?q=80",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/187327/apache-rr-310-left-rear-three-quarter.jpeg?isig=0&q=80",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/187327/apache-rr-310-right-front-three-quarter.jpeg?isig=0&q=80"
+    ],
+    "specifications": {
+      "engine": "312cc",
+      "power": "34 HP",
+      "torque": "27.3 Nm",
+      "top_speed": "160 km/h",
+      "mileage": "34 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork",
+      "weight": "174 kg"
+    }
+  },
+  {
+    "id": 25,
+    "title": "BMW G310 RR",
+    "category": "sports bikes",
+    "brand": "BMW",
+    "price_inr": 300000,
+    "rating": 4.7,
+    "color": "Black Storm",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/bmw/g-310-rr/source/g-310-rr69c13151c67c8.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/bmw/g-310-rr/source/g-310-rr69c130fe9f6e1.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/bmw/g-310-rr/source/g-310-rr69c1310315f52.jpg?imwidth=600&impolicy=resize"
+    ],
+    "specifications": {
+      "engine": "312cc",
+      "power": "34 HP",
+      "torque": "27.3 Nm",
+      "top_speed": "160 km/h",
+      "mileage": "30 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork",
+      "weight": "174 kg"
+    }
+  },
+  {
+    "id": 26,
+    "title": "Kawasaki Ninja 300",
+    "category": "sports bikes",
+    "brand": "Kawasaki",
+    "price_inr": 343000,
+    "rating": 4.8,
+    "color": "Lime Green",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/kawasaki/kawasaki-ninja/source/kawasaki-ninja69706ef0ccc17.jpg",
+      "https://cdn.bikedekho.com/processedimages/kawasaki/kawasaki-ninja/source/kawasaki-ninja69706f9ee0eeb.jpg",
+      "https://cdn.bikedekho.com/processedimages/kawasaki/kawasaki-ninja/source/kawasaki-ninja69706f9e9f067.jpg"
+    ],
+    "specifications": {
+      "engine": "296cc Twin Cylinder",
+      "power": "39 HP",
+      "torque": "26.1 Nm",
+      "top_speed": "180 km/h",
+      "mileage": "30 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork",
+      "weight": "179 kg"
+    }
+  },
+  {
+    "id": 27,
+    "title": "Suzuki Gixxer SF 250",
+    "category": "sports bikes",
+    "brand": "Suzuki",
+    "price_inr": 190000,
+    "rating": 4.6,
+    "color": "Metallic Blue",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/suzuki/gixxer-sf-250/source/gixxer-sf-25069789fbb9b9ed.jpg?imwidth=600&impolicy=resize ",
+      "https://cdn.bikedekho.com/processedimages/suzuki/gixxer-sf-250/source/gixxer-sf-25069789f032f459.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/suzuki/gixxer-sf-250/source/gixxer-sf-25069789f05cf3d9.jpg?imwidth=600&impolicy=resize"
+    ],
+    "specifications": {
+      "engine": "249cc",
+      "power": "26.5 HP",
+      "torque": "22.2 Nm",
+      "top_speed": "150 km/h",
+      "mileage": "38 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork",
+      "weight": "161 kg"
+    }
+  },
+  {
+    "id": 28,
+    "title": "Aprilia RS 457",
+    "category": "sports bikes",
+    "brand": "Aprilia",
+    "price_inr": 410000 ,
+    "rating": 4.9,
+    "color": "Prismatic Dark",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/aprilia/rs440/source/rs44068d6861a90f41.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/aprilia/rs440/source/rs44069a5339ad8cd8.jpg",
+      "https://cdn.bikedekho.com/processedimages/aprilia/rs440/source/rs44069a5339b2599b.jpg"
+    ],
+    "specifications": {
+      "engine": "457cc Twin Cylinder",
+      "power": "47 HP",
+      "torque": "43.5 Nm",
+      "top_speed": "190 km/h",
+      "mileage": "28 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork",
+      "weight": "175 kg"
+    }
+  },
+  {
+    "id": 29,
+    "title": "CFMoto 300SR",
+    "category": "sports bikes",
+    "brand": "CFMoto",
+    "price_inr": 229000,
+    "rating": 4.5,
+    "color": "Nebula Black",
+    "thumbnail": [
+      "https://imgd.aeplcdn.com/370x208/bw/models/cfmoto-300nk-standard20190701150856.jpg?q=80",
+      "https://imgd.aeplcdn.com/642x361/n/cw/ec/111303/cfmoto-300sr-left-side-view1.jpeg?isig=0&q=75",
+      "https://imgd.aeplcdn.com/642x361/n/cw/ec/111303/cfmoto-300sr-right-side-view0.jpeg?isig=0&q=80"
+    ],
+    "specifications": {
+      "engine": "292cc",
+      "power": "29 HP",
+      "torque": "25.3 Nm",
+      "top_speed": "140 km/h",
+      "mileage": "32 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork",
+      "weight": "165 kg"
+    }
+  },
+  {
+    "id": 30,
+    "title": "Honda CBR300R",
+    "category": "sports bikes",
+    "brand": "Honda",
+    "price_inr": 270000,
+    "rating": 4.6,
+    "color": "Grand Prix Red",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/honda/cb-350-x-scrambler/source/cb-350-x-scrambler6a1a776235e05.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/honda/cb-350-x-scrambler/source/cb-350-x-scrambler6a1a768a99b13.jpg",
+      "https://cdn.bikedekho.com/processedimages/honda/cb-350-x-scrambler/source/cb-350-x-scrambler6a1a75b22fb08.jpg"
+    ],
+    "specifications": {
+      "engine": "286cc",
+      "power": "30.4 HP",
+      "torque": "27 Nm",
+      "top_speed": "160 km/h",
+      "mileage": "35 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork",
+      "weight": "162 kg"
+    }
+  },
+{
+    "id": 31,
+    "title": "Triumph Scrambler 400 X",
+    "category": "scrambler bikes",
+    "brand": "Triumph",
+    "price_inr": 267000,
+    "rating": 4.8,
+    "color": "Matt Khaki Green",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/triumph/scrambler-350/source/scrambler-35069d8f6d62bf4a.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/triumph/scrambler-350/source/scrambler-35069d3615c38ed8.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/triumph/scrambler-350/source/scrambler-35069d8f6f37ca96.jpg"
+    ],
+    "specifications": {
+      "engine": "398cc Liquid Cooled",
+      "power": "39.5 HP",
+      "torque": "37.5 Nm",
+      "top_speed": "160 km/h",
+      "mileage": "30 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork + Monoshock",
+      "weight": "185 kg"
+    }
+  },
+  {
+    "id": 32,
+    "title": "Yezdi Scrambler",
+    "category": "scrambler bikes",
+    "brand": "Yezdi",
+    "price_inr": 212000,
+    "rating": 4.4,
+    "color": "Fire Orange",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/yezdi-motorcycles/roadking/source/roadking68d23a4b84bfc.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/yezdi-motorcycles/roadking/source/roadking657c627fecdcb.jpg",
+      "https://cdn.bikedekho.com/processedimages/yezdi-motorcycles/roadking/source/roadking657c627dd10a5.jpg"
+    ],
+    "specifications": {
+      "engine": "334cc Liquid Cooled",
+      "power": "28.7 HP",
+      "torque": "28.2 Nm",
+      "top_speed": "140 km/h",
+      "mileage": "28 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork",
+      "weight": "182 kg"
+    }
+  },
+  {
+    "id": 33,
+    "title": "Ducati Scrambler Icon",
+    "category": "scrambler bikes",
+    "brand": "Ducati",
+    "price_inr": 1060000,
+    "rating": 4.9,
+    "color": "62 Yellow",
+    "thumbnail": [
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/1/versions/--dark1742547712884.jpg?q=80",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/199711/scrambler-icon-2025-left-rear-three-quarter.jpeg?isig=0&q=80",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/199711/scrambler-icon-2025-right-front-three-quarter.jpeg?isig=0&q=80"
+    ],
+    "specifications": {
+      "engine": "803cc L-Twin",
+      "power": "73 HP",
+      "torque": "65 Nm",
+      "top_speed": "190 km/h",
+      "mileage": "22 km/l",
+      "brakes": "Brembo Disc ABS",
+      "suspension": "USD Fork + Kayaba Shock",
+      "weight": "185 kg"
+    }
+  },
+  {
+    "id": 34,
+    "title": "Honda CL500",
+    "category": "scrambler bikes",
+    "brand": "Honda",
+    "price_inr": 600000,
+    "rating": 4.7,
+    "color": "Candy Orange",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/honda/cl500-scrambler/source/cl500-scrambler636c8e9f000d4.jpg",
+      "https://cdn.bikedekho.com/processedimages/honda/cl500-scrambler/source/cl500-scrambler636c8ea07d9ad.jpg",
+      "https://cdn.bikedekho.com/processedimages/honda/cl500-scrambler/source/cl500-scrambler636c8e9f76e56.jpg"
+    ],
+    "specifications": {
+      "engine": "471cc Parallel Twin",
+      "power": "46 HP",
+      "torque": "43 Nm",
+      "top_speed": "170 km/h",
+      "mileage": "28 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Long Travel Suspension",
+      "weight": "192 kg"
+    }
+  },
+  {
+    "id": 35,
+    "title": "BMW R nineT Scrambler",
+    "category": "scrambler bikes",
+    "brand": "BMW",
+    "price_inr": 2110000,
+    "rating": 4.8,
+    "color": "Granite Grey",
+    "thumbnail": [
+      "https://imgd.aeplcdn.com/664x374/n/bw/models/colors/undefined-monolith-metallic-matt-1574425538019.jpg?q=80",
+      "https://cdn.bikedekho.com/processedimages/bmw/r-12-ninet/source/r-12-ninet668e0b2f84869.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/bmw/r-12-ninet/source/r-12-ninet674ffe318bf34.jpg"
+    ],
+    "specifications": {
+      "engine": "1170cc Boxer Twin",
+      "power": "109 HP",
+      "torque": "116 Nm",
+      "top_speed": "200 km/h",
+      "mileage": "18 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork",
+      "weight": "223 kg"
+    }
+  },
+
+  {
+    "id": 36,
+    "title": "Royal Enfield Himalayan 450",
+    "category": "adventure bikes",
+    "brand": "Royal Enfield",
+    "price_inr": 285000,
+    "rating": 4.9,
+    "color": "Kamet White",
+    "thumbnail": [
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/1/versions/royalenfield-himalayan-base1770645122967.jpg?q=80",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/110431/himalayan-452-left-rear-three-quarter.png?isig=0&q=80",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/110431/himalayan-452-right-rear-three-quarter.png?isig=0&q=80"
+    ],
+    "specifications": {
+      "engine": "452cc Liquid Cooled",
+      "power": "40 HP",
+      "torque": "40 Nm",
+      "top_speed": "150 km/h",
+      "mileage": "30 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork + Monoshock",
+      "weight": "196 kg"
+    }
+  },
+  {
+    "id": 37,
+    "title": "KTM 390 Adventure",
+    "category": "adventure bikes",
+    "brand": "KTM",
+    "price_inr": 368000,
+    "rating": 4.8,
+    "color": "Electronic Orange",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/ktm/390-adventure-s/source/390-adventure-s6a0591e7ac482.jpg?imwidth=600&impolicy=resize",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/220882/390-adventure-left-rear-three-quarter.jpeg?isig=0&q=80",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/220882/390-adventure-right-rear-three-quarter.jpeg?isig=0&q=80"
+    ],
+    "specifications": {
+      "engine": "373cc Single Cylinder",
+      "power": "43.5 HP",
+      "torque": "37 Nm",
+      "top_speed": "170 km/h",
+      "mileage": "30 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "WP Apex Suspension",
+      "weight": "177 kg"
+    }
+  },
+  {
+    "id": 38,
+    "title": "BMW G 310 GS",
+    "category": "adventure bikes",
+    "brand": "BMW",
+    "price_inr": 335000,
+    "rating": 4.6,
+    "color": "Rallye Blue",
+    "thumbnail": [
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/126519/g-310-gs-right-front-three-quarter.png?isig=0&q=80",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/126519/g-310-gs-right-front-three-quarter.png?isig=0&q=80",
+      "https://imgd.aeplcdn.com/227x128/n/cw/ec/201813/g-310-gs-front-view-8.jpeg?isig=0&wm=3&q=80"
+    ],
+    "specifications": {
+      "engine": "313cc Single Cylinder",
+      "power": "34 HP",
+      "torque": "28 Nm",
+      "top_speed": "145 km/h",
+      "mileage": "32 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork",
+      "weight": "175 kg"
+    }
+  },
+  {
+    "id": 39,
+    "title": "Suzuki V-Strom SX",
+    "category": "adventure bikes",
+    "brand": "Suzuki",
+    "price_inr": 216000,
+    "rating": 4.5,
+    "color": "Champion Yellow",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/suzuki/v-strom-sx/source/v-strom-sx69527842e0960.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/suzuki/v-strom-sx/source/v-strom-sx69527842e0960.jpg?imwidth=600&impolicy=resize",
+      "https://cdn.bikedekho.com/processedimages/suzuki/v-strom-sx/source/v-strom-sx6952785941d06.jpg"
+    ],
+    "specifications": {
+      "engine": "249cc Oil Cooled",
+      "power": "26.5 HP",
+      "torque": "22.2 Nm",
+      "top_speed": "140 km/h",
+      "mileage": "36 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "Telescopic Fork",
+      "weight": "167 kg"
+    }
+  },
+  {
+    "id": 40,
+    "title": "Honda CB500X",
+    "category": "adventure bikes",
+    "brand": "Honda",
+    "price_inr": 580000,
+    "rating": 4.8,
+    "color": "Pearl Organic Green",
+    "thumbnail": [
+      "https://cdn.bikedekho.com/processedimages/honda/cb500x/source/cb500x604f0bdf70f03.jpg",
+      "https://cdn.bikedekho.com/processedimages/honda/cb500x/source/cb500x604f50a3b753c.jpg",
+      "https://cdn.bikedekho.com/processedimages/honda/cb500x/source/cb500x604f50270c0ed.jpg"
+    ],
+    "specifications": {
+      "engine": "471cc Parallel Twin",
+      "power": "47 HP",
+      "torque": "43 Nm",
+      "top_speed": "180 km/h",
+      "mileage": "28 km/l",
+      "brakes": "Dual Disc ABS",
+      "suspension": "USD Fork",
+      "weight": "199 kg"
+    }
+  }
+]
+
+}

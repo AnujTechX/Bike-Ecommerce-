@@ -1,0 +1,33 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+.image{
+
+}
+/* *{
+  outline: 1px solid red;
+} */
+/* html,body{
+  overflow-x: hidden;
+} */
+.active-link{
+  color:gray;
+  /* font-size: 1.2rem; */
+  font-weight: bold;
+  /* text-decoration: underline; */
+  transition: all ease-in-out 0.3s;
+}
+
+body{
+  /* background-color: bisque; */
+}
+
+/* this for input filed number spinner hidden */
+input.inputBtn::-webkit-inner-spin-button,
+input.inputBtn::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* input.inputBtn {
+  -moz-appearance: textfield;
+} */
