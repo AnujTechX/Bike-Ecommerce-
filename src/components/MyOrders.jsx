@@ -1,17 +1,14 @@
 import OrdersList from "./MyOrdersList"
 
 const MyOrders = ({order}) => {
-// console.log("my order :",order)
 const orderList = []
 
 Object.values(order).forEach((item)=>{
 if(typeof item ==="object") orderList.push(item)
 
-  // console.log("inner obj:",item)
 })
-// console.log("orderList :",orderList)
  return (
-<main className="mt-6 px-4 md:px-8 bg-gray-100 dark:bg-gray-900 py-7">
+<main className="mt-6 px-4 md:px-8 bg-gray-100 dark:bg-gray-900 py-7 max-h-screen">
      <div className="max-w-7xl mx-auto">
     {/* Header */}
     

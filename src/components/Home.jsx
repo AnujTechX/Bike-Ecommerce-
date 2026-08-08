@@ -5,7 +5,6 @@ import CompareBare from "./CompareBare";
 import BestChoice from "./BestChoice";
 import Popular from "./Popular";
 import BrandList from "./BrandList";
-import WishList from "./Wishlist";
 const Home = () => {
   const {data:bikes,isLoading,error} = useGetBikesQuery();
  
@@ -26,7 +25,6 @@ const Home = () => {
        <BrandList/>
        <Scooters group = {groupChunks} />
        <CompareBare/>
-       {/* <WishList/> */}
     </main>
   )
 }
