@@ -2,7 +2,7 @@
 
   export const bikesApi = createApi({
     reducerPath:"bikesApi",
-    baseQuery:fetchBaseQuery({baseUrl:"http://localhost:3000/"}),
+    baseQuery:fetchBaseQuery({baseUrl:"https://bike-ecommerce.onrender.com"}),
     tagTypes:["Bikes"],
     endpoints:(builder)=>({
 
