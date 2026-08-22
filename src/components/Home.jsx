@@ -10,7 +10,7 @@ const Home = () => {
  
   if(isLoading) return <h1>Loading...</h1>
   if(error) return <h1>Error</h1>
-  // console.log("bikes :",bikes)
+  console.log("bikes data :",bikes)
   const groupChunks=[];
   const size = 10;
   
@@ -18,7 +18,7 @@ const Home = () => {
     groupChunks.push(bikes.slice(i,i+size))
   }
   return (
-    <main>
+    <main className="h-screen">
        <ImageSlider/>
        <BestChoice group={groupChunks}/>
        <Popular  group={groupChunks}/>
