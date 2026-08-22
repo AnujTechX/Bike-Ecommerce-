@@ -25,10 +25,10 @@ function App() {
 
   return (
   <>
-  <div className="dark:bg-gray-800">    
+  <div className="dark:bg-gray-800 min-h-screen flex flex-col">    
     <Navbar/>
-    
-    <Routes>
+    <main className="flex-1"> 
+      <Routes>
       <Route path="/" element={<Home/>}/>
       <Route path="/newBikes" element={<FindNewBikes/>}/>
       <Route path="/electricBikes" element={<ElectricBikes/>}/>
@@ -48,6 +48,8 @@ function App() {
       <Route path="/wishList" element={<WishList/>}/>
       <Route path="/selectBrand/:brand" element={<SelectBrand/>}/>
     </Routes>
+    </main>
+   
     {/* <CompareBare/> */}
     <Footer/>
     <Toaster position="top center" toastOptions={{
