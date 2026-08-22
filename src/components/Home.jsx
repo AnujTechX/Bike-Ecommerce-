@@ -2,7 +2,9 @@ import ImageSlider from "./ImageSlider"
 import Scooters from "./Scooters";
 import { useGetBikesQuery } from "../redux/bookingSlice";
 import CompareBare from "./CompareBare";
-import BestChoice from "./BestChoice";
+// import BestChoice from "./BestChoice";
+
+import BestChoice from "./BestChoice"
 import Popular from "./Popular";
 import BrandList from "./BrandList";
 const Home = () => {
@@ -18,13 +20,13 @@ const Home = () => {
     groupChunks.push(bikes.slice(i,i+size))
   }
   return (
-    <main className="h-screen">
+    <main>
        <ImageSlider/>
        <BestChoice group={groupChunks}/>
        <Popular  group={groupChunks}/>
        <BrandList/>
        <Scooters group = {groupChunks} />
-       <CompareBare/>
+       <CompareBare/> 
     </main>
   )
 }

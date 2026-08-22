@@ -1,8 +1,11 @@
 import BestChoiceCards from "./BestChoiceCards";
 import { useState } from "react";
-import CarouselPackage from "react-multi-carousel";
+// import CarouselPackage from "react-multi-carousel";
+// import "react-multi-carousel/lib/styles.css";
+import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
-const Carousel = CarouselPackage.default
+
+// const Carousel = CarouselPackage.default
 
 
 const BestChoice = ({group}) => {

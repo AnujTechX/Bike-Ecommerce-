@@ -1,7 +1,12 @@
-import CarouselPackage from "react-multi-carousel";
-import "react-multi-carousel/lib/styles.css";
+// import CarouselPackage from "react-multi-carousel";
+// import "react-multi-carousel/lib/styles.css";
 import PopularBikes from "./PopularBikes";
-const Carousel = CarouselPackage.default
+import Carousel from "react-multi-carousel";
+import "react-multi-carousel/lib/styles.css";
+
+
+
+// const Carousel = CarouselPackage.default
 
 
 const Popular = ({group}) => {
