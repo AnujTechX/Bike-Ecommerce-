@@ -37,7 +37,7 @@ const Popular = ({group}) => {
  
 return (
    <section className="bg-gray-50 py-8 antialiased dark:bg-gray-900 md:py-12">
-  <div className="mx-auto max-w-screen-xl px-4 2xl:px-0">
+  <div className="mx-auto max-w-screen-xl px-4 2xl:px-0 relative z-0">
     {/* Heading & Filters */}
     <div className="mb-4 items-end justify-between space-y-4 sm:flex sm:space-y-0 md:mb-8">
       <div>

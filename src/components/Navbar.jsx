@@ -1,4 +1,4 @@
-import { Navigate, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import { useEffect, useRef, useState } from "react";
 import { FaChevronDown, FaTimes, FaBars, FaSearch } from "react-icons/fa";
 import logo from "../assets/road-rider.png";
@@ -19,7 +19,7 @@ const Navbar = () => {
 
   const [isOpenSearchBar, setIsOpenSearchBar] = useState(false)
   const searchRef = useRef(null);
-  const menuRef = useRef(null)
+  // const menuRef = useRef(null)
 
   // const navigate= useNavigate();
 
@@ -107,7 +107,7 @@ const Navbar = () => {
               onClick={() => setMenu(false)}>Home</NavLink></li>
 
           <li className="cursor-pointer"><NavLink to={'/electricBikes'} onClick={() => setMenu(false)}
-            onClick={() => setMenu(false)}
+         
             className={({ isActive }) => isActive ? "active-link" : ""} >Electric Bikes </NavLink></li>
 
           {/* new bikes  */}
@@ -238,7 +238,7 @@ ${darkMode ? "bg-gray-500" : "bg-blue-500"}`}
               </button>
             </Link>
 
-            { /* --------------- mobile screen profile  ---------------- */}
+            { /* --------------- mobile screen  ---------------- */}
             <Link to={"/userProfile/"}  >
               <button className="left-44 min-[500px]:hidden bg-blue-500 hover:bg-blue-700  text-white  px-3 py-1  rounded-2xl text-md font-semibold w-fit cursor-pointer">
                 Profile
@@ -258,7 +258,7 @@ ${darkMode ? "bg-gray-500" : "bg-blue-500"}`}
 
         { /* --------------- search bar ---------------- */}
 
-        <form action="" className={`absolute flex   px-3 py-1.5
+        <form action="" className={`absolute flex px-3 py-1.5
     rounded-xl lg:w-2/5 right-2.5
      lg:right-4 lg:rounded-xl 
      z-50 bg-red-900 lg:px-4 lg:py-2 transition-all duration-200 ease-in-out ${isOpenSearchBar ? " w-2/4" : "w-10 "}`} ref={searchRef}>

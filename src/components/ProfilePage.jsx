@@ -2,14 +2,16 @@ const ProfilePage = () => {
   const registeredDetails= JSON.parse(localStorage.getItem("registered"))
   console.log("profile",registeredDetails)
   // const signUpMatched = registeredDetails.some((details)=> ) 
+    if(!registeredDetails) {
+      return (
+        <div className="flex flex-col items-center justify-center h-screen">
+          <p className="text-xl text-gray-600">User not found Please sign up.</p>
+        </div>
+      );
+    } 
   return (
 <>
-  {/* <style
-    dangerouslySetInnerHTML={{
-      __html:
-        '\n  body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }\n  .toast {\n    animation: slideIn 0.25s ease-out, fadeOut 0.3s ease-in 1.7s forwards;\n  }\n  @keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }\n  @keyframes fadeOut { to { opacity: 0; } }\n'
-    }}
-  /> */}
+
   <div
     id="toast-container"
     className="fixed top-4 right-4 z-50 flex flex-col gap-2"
